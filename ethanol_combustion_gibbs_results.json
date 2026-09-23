@@ -1,0 +1,15 @@
+{
+  "method": "B3LYP/def2-SVP",
+  "temperature_K": 298.15,
+  "pressure_Pa": 101325.0,
+  "phase": "ideal gas",
+  "reaction": "C2H5OH + 3 O2 -> 2 CO2 + 3 H2O",
+  "gibbs_energies_hartree": {
+    "ethanol": -154.8636629640669,
+    "oxygen": -150.22088731809882,
+    "carbon_dioxide": -188.45197984946063,
+    "water": -76.35475456350704
+  },
+  "delta_g_hartree": -0.441898471079071,
+  "delta_g_kj_mol": -1160.2042678966818
+}
